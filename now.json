@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "latest_price_express",
+  "builds": [
+    {
+      "src": "**/*.js",
+      "use": "@now/node"
+    }
+  ]
+}
